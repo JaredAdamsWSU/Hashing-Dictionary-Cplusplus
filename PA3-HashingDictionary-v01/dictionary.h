@@ -1,4 +1,10 @@
-
+/**
+ *  Implements UI for using and simulates a dictionary with a few commands using implemented hash table
+ *   Jared A. Strand
+ *	Note: This is the main program function that I personally implemented.
+ *	      I was given skeleton code in some files and those files are
+ *	      labeled for proper credit.
+ */
 
 #ifndef __DICT_H
 #define __DICT_H

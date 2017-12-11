@@ -1,0 +1,5 @@
+add hello A greeting
+add "goodbye" A departing
+add "yellow" "Visible light spectrum between orange and green at about 510-540 THz"
+define yellow
+define GoodBye

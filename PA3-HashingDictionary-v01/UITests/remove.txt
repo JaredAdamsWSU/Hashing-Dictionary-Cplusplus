@@ -1,0 +1,5 @@
+add hello A greeting
+add "goodbye" A departing
+add "yellow" "Visible light spectrum between orange and blue"
+remove hello
+remove GOODBYE

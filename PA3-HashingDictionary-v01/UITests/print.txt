@@ -1,0 +1,8 @@
+add hello A greeting
+add "goodbye" A departing
+add "yellow" "Visible light spectrum between orange and blue"
+size
+print
+load config/dictLoad1.json
+size
+print 10

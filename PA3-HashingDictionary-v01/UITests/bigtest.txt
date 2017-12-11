@@ -1,0 +1,16 @@
+load config/dictFull.json
+size
+random
+define MEAGRE
+define MYRISTIC
+remove LUtH
+unload config/dictLoad1.json
+size
+unload config/dictLoad2.json
+size
+unload config/dictUnload1.json
+define TURFEN
+define UNPAINT
+size
+random
+random
